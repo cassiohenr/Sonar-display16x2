@@ -1,4 +1,4 @@
-//Este código calcula a distância do obstáculo ao sensor sonar genérico e dispara um alarme de a medida em centimetros for menor que 30cm.
+//Este código calcula a distância do obstáculo ao sensor sonar genérico e dispara um alarme se a medição em centimetros for menor que 30cm.
 //Também exibe no display 16x2.
 
 #include <LiquidCrystal.h>
