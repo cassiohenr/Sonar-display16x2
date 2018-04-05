@@ -1,1 +1,1 @@
-# Sonar-display16x2
+# sonar-alarm
